@@ -1,2 +1,1 @@
-# wordlists
-custom wordlists 
+## wordlists ftw
